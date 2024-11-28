@@ -64,7 +64,7 @@ CREATE DATABASE employeemanagementsystem;
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/employee-management-system.git
+   git clone https://github.com/saadmulani/employee-management-system.git
    cd employee-management-system
    ```
 
@@ -76,20 +76,6 @@ CREATE DATABASE employeemanagementsystem;
 ---
 
 ### Run the Application
-
-#### Using Maven
-
-1. **Run the application using Maven**:
-
-   ```bash
-   mvn spring-boot:run
-   ```
-
-2. Access the application:
-
-   - **API Documentation**: [http://localhost:8080/docs](http://localhost:8080/docs)
-
----
 
 #### Using Java Command-Line Arguments
 
