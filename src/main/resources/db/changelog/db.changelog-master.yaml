@@ -1,0 +1,7 @@
+databaseChangeLog:
+#  - include:
+#      file: classpath:/db/changelog/changes/ddl/001-employee-management-system-ddl-script.sql
+#  - include:
+#      file: classpath:/db/changelog/changes/dml/001-employee-management-system-dml-script.sql
+  - include:
+      file: classpath:/db/changelog/changes/001-employee-management-system.xml
